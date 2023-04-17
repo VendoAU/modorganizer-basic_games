@@ -15,6 +15,7 @@ class Jazz2Game(BasicGame):
     GameShortName = "jazz2"
     GameBinary = "Jazz2.exe"
     GameDataPath = "%GAME_PATH%"
+    GameDocumentsDirectory = "%GAME_PATH%"
     GameSavesDirectory = "%GAME_PATH%"
     GameGogId = ["1917711239", "1351891846", "1597842603"]
 
